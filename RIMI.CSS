@@ -2,5 +2,11 @@ body{
     border-color: aqua;
     text-align: center;
     text-decoration: double;
+   
 }
- 
+ h1{
+    color: #d64949;
+ }
+ p{
+    color:#3936d1
+ }
